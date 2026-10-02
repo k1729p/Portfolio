@@ -36,19 +36,20 @@
 > [!IMPORTANT]
 > Using [Java version <b>25</b> (LTS)](https://docs.oracle.com/en/java/javase/25/docs/api/index.html). 
 
-The code quality was reviewed by <img src="images/SonarQube.png" alt="SonarQube" width="20" height="20">[SonarQube](https://www.sonarqube.org/)
-([review screenshot](images/Screenshot-SonarQube1.png) , [review screenshot](images/Screenshot-SonarQube2.png)).<br>
-Code checking and refactoring was assisted by:<br>
-<img src="images/spacer-40.png">
+**Engineered with Augmented Intelligence:**
+The code quality, architectural refactoring, and environment orchestration were achieved through an integrated workflow with:  
 <img src="images/IDEA.png" alt="IDEA" width="20" height="20">[IntelliJ IDEA](https://www.jetbrains.com/idea/),
-<img src="images/Claude.png" alt="Claude" width="20" height="20">[Anthropic Claude](https://claude.com/),
+<img src="images/Claude.png" alt="Claude" width="20" height="20">[Anthropic Claude](https://claude.com/),<br>
+<img src="images/spacer-40.png">
 <img src="images/Gemini.png" alt="Gemini" width="20" height="20">[Google Gemini](https://gemini.google.com/),
 <img src="images/Copilot.png" alt="Copilot" width="24" height="19">[GitHub Copilot](https://github.com/features/copilot),
 <img src="images/Perplexity.png" alt="Perplexity" width="22" height="20">[Perplexity](https://www.perplexity.ai/),
 <img src="images/Qwen.png" alt="Gemini" width="20" height="20">[Alibaba Qwen](https://qwen.ai/), and
 <img src="images/Docker.png" alt="Docker" width="25" height="20">[Docker Gordon](https://docs.docker.com/ai/gordon/).<br>
-The projects were built with [Maven](https://maven.apache.org/).
-The testing was done with [JUnit 5](https://junit.org/junit5/), [Mockito](https://site.mockito.org/), [Testcontainers](https://testcontainers.com/), and curl.<br>
+The code quality was reviewed by <img src="images/SonarQube.png" alt="SonarQube" width="20" height="20">[SonarQube](https://www.sonarqube.org/)
+([review screenshot](images/Screenshot-SonarQube1.png) , [review screenshot](images/Screenshot-SonarQube2.png)).<br>
+Java projects were built with [Maven](https://maven.apache.org/).
+The testing was done with [JUnit 5](https://junit.org/junit5/), [Mockito](https://site.mockito.org/), [Testcontainers](https://testcontainers.com/), and others.<br>
 [<img src="images/LegacyRepository.png">](https://github.com/k1729p/legacy)
 
 [<b>𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐖𝐢𝐤𝐢</b>](https://github.com/k1729p/Portfolio/wiki)<img src="images/spacer-460.png"><img alt="" src="images/LiveDemo.png">➔ <a href="https://k1729p.github.io/">GitHub Pages</a>
