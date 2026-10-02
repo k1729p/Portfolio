@@ -45,8 +45,8 @@ The code quality, architectural refactoring, and environment orchestration were 
 
 The code quality was reviewed by [![](images/SonarQube.png)SonarQube](https://www.sonarqube.org/)
 ([review screenshot 1](images/Screenshot-SonarQube1.png), [review screenshot 2](images/Screenshot-SonarQube2.png)).\
-Java projects were built with [Maven](https://maven.apache.org/).
-The testing was done with [JUnit 5](https://junit.org/junit5/), [Mockito](https://site.mockito.org/), [Testcontainers](https://testcontainers.com/), and others.\
+Java projects were built with Apache [Maven](https://maven.apache.org/).
+The testing was done with [JUnit](https://junit.org/), [Mockito](https://site.mockito.org/), [Testcontainers](https://testcontainers.com/), and others.\
 [![Legacy repository](images/LegacyRepository.png)](https://github.com/k1729p/legacy)
 
 [**𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐖𝐢𝐤𝐢**](https://github.com/k1729p/Portfolio/wiki)![](images/spacer-460.png)![](images/LiveDemo.png)➔ [GitHub Pages](https://k1729p.github.io/)
