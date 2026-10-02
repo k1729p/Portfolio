@@ -30,6 +30,7 @@
 | <a href="https://github.com/k1729p/Study25">Study25</a> | <img src="s/g.png"><b>Docker</b> ● <img src="s/o.png"><b>SpringBoot</b> ● <b>GraphQL</b> ● JavaFX |
 | <a href="https://github.com/k1729p/Study26">Study26</a> | <img src="s/g.png"><b>Docker</b> ● <img src="s/o.png"><b>SpringBoot</b> ● <b>gRPC</b> |
 | <a href="https://github.com/k1729p/Study27">Study27</a> | <img src="s/g.png"><b>Docker</b> ● <b>Angular</b> ● <b>Material Design</b> ● TypeScript ● JavaScript ● Node.js ● Cypress |
+| <a href="https://github.com/k1729p/Study28">Study28</a> | <img src="s/g.png"><b>Docker</b> ● TypeScript ● Node.js ● Express ● Ten Databases ● Vitest |
 <P><img src="images/spacer-800.png"></P>
 
 > [!IMPORTANT]
@@ -40,9 +41,11 @@ The code quality was reviewed by <img src="images/SonarQube.png" alt="SonarQube"
 Code checking and refactoring was assisted by:<br>
 <img src="images/spacer-40.png">
 <img src="images/IDEA.png" alt="IDEA" width="20" height="20">[IntelliJ IDEA](https://www.jetbrains.com/idea/),
-<img src="images/Copilot.png" alt="Copilot" width="24" height="19">[GitHub Copilot](https://github.com/features/copilot),
+<img src="images/Claude.png" alt="Claude" width="20" height="20">[Anthropic Claude](https://claude.com/),
 <img src="images/Gemini.png" alt="Gemini" width="20" height="20">[Google Gemini](https://gemini.google.com/),
-<img src="images/Perplexity.png" alt="Perplexity" width="22" height="20">[Perplexity](https://www.perplexity.ai/), and
+<img src="images/Copilot.png" alt="Copilot" width="24" height="19">[GitHub Copilot](https://github.com/features/copilot),
+<img src="images/Perplexity.png" alt="Perplexity" width="22" height="20">[Perplexity](https://www.perplexity.ai/),
+<img src="images/Qwen.png" alt="Gemini" width="20" height="20">[Alibaba Qwen](https://qwen.ai/), and
 <img src="images/Docker.png" alt="Docker" width="25" height="20">[Docker Gordon](https://docs.docker.com/ai/gordon/).<br>
 The projects were built with [Maven](https://maven.apache.org/).
 The testing was done with [JUnit 5](https://junit.org/junit5/), [Mockito](https://site.mockito.org/), [Testcontainers](https://testcontainers.com/), and curl.<br>
