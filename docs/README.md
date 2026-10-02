@@ -39,9 +39,9 @@
 
 **Engineered with [Augmented Intelligence](https://en.wikipedia.org/wiki/Intelligence_amplification)**.
 The code quality, architectural refactoring, and environment orchestration were achieved through an integrated workflow with:
-| [![](images/IDEA.png)IntelliJ IDEA](https://www.jetbrains.com/idea/) | [Anthropic ![](images/Claude.png)Claude](https://claude.com/) | [Google ![](images/Gemini.png)Gemini](https://gemini.google.com/) | [GitHub ![](images/Copilot.png)Copilot](https://github.com/features/copilot) |
+| JetBrains [![](images/IDEA.png)IntelliJ IDEA](https://www.jetbrains.com/idea/) | [Anthropic ![](images/Claude.png)Claude](https://claude.com/) | [Google ![](images/Gemini.png)Gemini](https://gemini.google.com/) | [GitHub ![](images/Copilot.png)Copilot](https://github.com/features/copilot) |
 | :--- | :--- | :--- | :--- |
-| [![](images/Perplexity.png)Perplexity](https://www.perplexity.ai/) | [Alibaba ![](images/Qwen.png)Qwen](https://qwen.ai/) | [![](images/Docker.png)Docker Gordon](https://docs.docker.com/ai/gordon/) | |
+| **[![](images/Perplexity.png)Perplexity](https://www.perplexity.ai/)** | **[Alibaba ![](images/Qwen.png)Qwen](https://qwen.ai/)** | **[![](images/Docker.png)Docker Gordon](https://docs.docker.com/ai/gordon/)** | |
 
 The code quality was reviewed by [![](images/SonarQube.png)SonarQube](https://www.sonarqube.org/)
 ([review screenshot 1](images/Screenshot-SonarQube1.png), [review screenshot 2](images/Screenshot-SonarQube2.png)).\
