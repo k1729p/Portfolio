@@ -37,10 +37,10 @@
 > [!IMPORTANT]
 > Using [Java version **25** (LTS)](https://docs.oracle.com/en/java/javase/25/docs/api/index.html).
 
-**Engineered with [Augmented Intelligence](https://en.wikipedia.org/wiki/Intelligence_amplification):**
-the code quality, architectural refactoring, and environment orchestration were achieved through an integrated workflow with:
+**Engineered with [Augmented Intelligence](https://en.wikipedia.org/wiki/Intelligence_amplification)**.
+The code quality, architectural refactoring, and environment orchestration were achieved through an integrated workflow with:
 [![](images/IDEA.png)IntelliJ IDEA](https://www.jetbrains.com/idea/),
-[![](images/Claude.png)Anthropic Claude](https://claude.com/),
+[Anthropic ![](images/Claude.png)Claude](https://claude.com/),
 [Google ![](images/Gemini.png)Gemini](https://gemini.google.com/),
 [GitHub ![](images/Copilot.png)Copilot](https://github.com/features/copilot),
 [![](images/Perplexity.png)Perplexity](https://www.perplexity.ai/),
