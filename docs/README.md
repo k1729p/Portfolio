@@ -41,12 +41,13 @@
 the code quality, architectural refactoring, and environment orchestration were achieved through an integrated workflow with:
 [![](images/IDEA.png)IntelliJ IDEA](https://www.jetbrains.com/idea/),
 [![](images/Claude.png)Anthropic Claude](https://claude.com/),
-<img src="images/Gemini.png" alt="Gemini" width="20" height="20">[Google Gemini](https://gemini.google.com/),
-<img src="images/Copilot.png" alt="Copilot" width="24" height="19">[GitHub Copilot](https://github.com/features/copilot),
-<img src="images/Perplexity.png" alt="Perplexity" width="22" height="20">[Perplexity](https://www.perplexity.ai/),
-<img src="images/Qwen.png" alt="Qwen" width="20" height="20">[Alibaba Qwen](https://qwen.ai/), and
-<img src="images/Docker.png" alt="Docker" width="25" height="20">[Docker Gordon](https://docs.docker.com/ai/gordon/).\
-The code quality was reviewed by <img src="images/SonarQube.png" alt="SonarQube" width="20" height="20">[SonarQube](https://www.sonarqube.org/)
+[Google ![](images/Gemini.png)Gemini](https://gemini.google.com/),
+[Microsoft ![](images/Copilot.png)Copilot](https://copilot.com/),
+[![](images/Perplexity.png)Perplexity](https://www.perplexity.ai/),
+[Alibaba ![](images/Qwen.png)Qwen](https://qwen.ai/), and
+[![](images/Docker.png)Docker Gordon](https://docs.docker.com/ai/gordon/).\
+
+The code quality was reviewed by [![](images/SonarQube.png)SonarQube](https://www.sonarqube.org/)
 ([review screenshot 1](images/Screenshot-SonarQube1.png), [review screenshot 2](images/Screenshot-SonarQube2.png)).\
 Java projects were built with [Maven](https://maven.apache.org/).
 The testing was done with [JUnit 5](https://junit.org/junit5/), [Mockito](https://site.mockito.org/), [Testcontainers](https://testcontainers.com/), and others.\
