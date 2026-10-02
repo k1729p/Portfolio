@@ -30,7 +30,7 @@
 | <a href="https://github.com/k1729p/Study25">Study25</a> | <img src="s/g.png"><b>Docker</b> ● <img src="s/o.png"><b>SpringBoot</b> ● <b>GraphQL</b> ● JavaFX |
 | <a href="https://github.com/k1729p/Study26">Study26</a> | <img src="s/g.png"><b>Docker</b> ● <img src="s/o.png"><b>SpringBoot</b> ● <b>gRPC</b> |
 | <a href="https://github.com/k1729p/Study27">Study27</a> | <img src="s/g.png"><b>Docker</b> ● <b>Angular</b> ● <b>Material Design</b> ● TypeScript ● JavaScript ● Node.js ● Cypress |
-| <a href="https://github.com/k1729p/Study28">Study28</a> | <img src="s/g.png"><b>Docker</b> ● TypeScript ● Node.js ● Express ● Ten Databases ● Vitest |
+| <a href="https://github.com/k1729p/Study28">Study28</a> | <img src="s/g.png"><b>Docker</b> ● <b>Express</b> ● <b>Ten Databases</b> ● TypeScript ● JavaScript ● Node.js ● Vitest |
 <P><img src="images/spacer-800.png"></P>
 
 > [!IMPORTANT]
