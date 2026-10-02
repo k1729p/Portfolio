@@ -2,53 +2,53 @@
 
 | _Repository_ | _Main Topics_ |
 | :---: | :--- |
-| <a href="https://github.com/k1729p/Miscellany">Miscellany</a> | <img src="images/Java.png"> |
-| <a href="https://github.com/k1729p/Study01">Study01</a> | <img src="s/o.png"><b>SpringBoot</b> ● <b>OpenAPI</b> ● Stoplight ● Swagger UI ● YAML |
-| <a href="https://github.com/k1729p/Study02">Study02</a> | <img src="s/g.png"><b>Docker</b> ● <img src="s/o.png"><b>SpringBoot</b> ● <b>Reactive</b> REST Web Service ● Reactive Mongo Repository |
-| <a href="https://github.com/k1729p/Study03">Study03</a> | <img src="s/g.png"><b>Docker</b> ● <img src="s/o.png"><b>SpringBoot</b> ● <b>Reactive</b> REST Web Service ● Spring WebFlux ● Redis |
-| <a href="https://github.com/k1729p/Study04">Study04</a> | <img src="s/g.png"><b>Docker</b> ● <img src="s/a.png"><b>Kafka</b> ● Apache Kafka Streams |
-| <a href="https://github.com/k1729p/Study05">Study05</a> | <img src="s/g.png"><b>Docker</b> ● <img src="s/o.png"><b>SpringBoot</b> ● <img src="s/a.png"><b>Kafka</b> ● Spring Cloud Stream |
-| <a href="https://github.com/k1729p/Study06">Study06</a> | <img src="s/g.png"><b>Docker</b> ● <img src="s/o.png"><b>SpringBoot</b> ● <b>Camunda</b> |
-| <a href="https://github.com/k1729p/Study07">Study07</a> | <img src="s/o.png"><b>SpringBoot</b> ● RESTful Web Service ● HATEOAS ● <b>Spring Data REST</b> ● H2 database |
-| <a href="https://github.com/k1729p/Study08">Study08</a> | <img src="s/o.png"><b>SpringBoot</b> ● Spring Web MVC ● Thymeleaf |
-| <a href="https://github.com/k1729p/Study09">Study09</a> | <img src="s/o.png"><b>SpringBoot</b> ● RESTful Web Service ● HATEOAS ● <b>JavaScript</b> ● AngularJS ● jQuery |
-| <a href="https://github.com/k1729p/Study10">Study10</a> | <img src="s/o.png"><b>SpringBoot</b> ● Spring Cloud Netflix Microservices ● Eureka Server ● Resilience4j |
-| <a href="https://github.com/k1729p/Study11">Study11</a> | <img src="s/o.png"><b>SpringBoot</b> ● <b>SOAP</b> Web Services ● Spring Web Services ● WSDL |
-| <a href="https://github.com/k1729p/Study12">Study12</a> | Swing ● Bean Validation ● CDI ● JBoss Weld Container ● RESTful Web Services ● JAX-RS |
-| <a href="https://github.com/k1729p/Study13">Study13</a> | <img src="s/y.png"><b>JBoss WildFly</b> ● Jakarta EE ● EJB ● JPA ● JMS ● Transactions (CMT, BMT) ● H2 database |
-| <a href="https://github.com/k1729p/Study14">Study14</a> | <img src="s/y.png"><b>JBoss WildFly</b> ● CDI ● JAX-WS ● JAX-RS ● WSDL ● JSF |
-| <a href="https://github.com/k1729p/Study15">Study15</a> | <b>Solr</b> ● JSON |
-| <a href="https://github.com/k1729p/Study16">Study16</a> | <img src="s/g.png"><b>Docker</b> ● <b>Elasticsearch</b> ● JSON |
-| <a href="https://github.com/k1729p/Study17">Study17</a> | <img src="s/g.png"><b>Docker</b> ● <b>MapStruct</b> ● Apache Commons ● Concurrent Trees ● Eclipse Collections |
-| <a href="https://github.com/k1729p/Study18">Study18</a> | Security |
-| <a href="https://github.com/k1729p/Study19">Study19</a> | Mathematics ● Statistics |
-| <a href="https://github.com/k1729p/Study20">Study20</a> | Java Platform Module System |
-| <a href="https://github.com/k1729p/Study21">Study21</a> | <img src="s/g.png"><b>Docker</b> ● <b>Pulsar</b> ● Testcontainers |
-| <a href="https://github.com/k1729p/Study22">Study22</a> | <img src="s/g.png"><b>Docker</b> ● <b>Kubernetes</b> ● <b>Quarkus</b> ● <img src="s/a.png"><b>Kafka</b> ● MongoDB ● PostgreSQL |
-| <a href="https://github.com/k1729p/Study23">Study23</a> | <img src="s/g.png"><b>Docker</b> ● <img src="s/o.png"><b>SpringBoot</b> ● Spring Cloud Gateway ● <b>Keycloak</b> ● Testcontainers |
-| <a href="https://github.com/k1729p/Study24">Study24</a> | <img src="s/g.png"><b>Docker</b> ● <b>Quarkus</b> ● <b>Keycloak</b> |
-| <a href="https://github.com/k1729p/Study25">Study25</a> | <img src="s/g.png"><b>Docker</b> ● <img src="s/o.png"><b>SpringBoot</b> ● <b>GraphQL</b> ● JavaFX |
-| <a href="https://github.com/k1729p/Study26">Study26</a> | <img src="s/g.png"><b>Docker</b> ● <img src="s/o.png"><b>SpringBoot</b> ● <b>gRPC</b> |
-| <a href="https://github.com/k1729p/Study27">Study27</a> | <img src="s/g.png"><b>Docker</b> ● <b>Angular</b> ● <b>Material Design</b> ● TypeScript ● JavaScript ● Node.js ● Cypress |
-| <a href="https://github.com/k1729p/Study28">Study28</a> | <img src="s/g.png"><b>Docker</b> ● <b>Express</b> ● <b>Ten Databases</b> ● TypeScript ● JavaScript ● Node.js ● Vitest |
-<P><img src="images/spacer-800.png"></P>
+| [Miscellany](https://github.com/k1729p/Miscellany) | ![Java](images/Java.png) |
+| [Study01](https://github.com/k1729p/Study01) | ![](s/o.png)**Spring Boot** ● **OpenAPI** ● Stoplight ● Swagger UI ● YAML |
+| [Study02](https://github.com/k1729p/Study02) | ![](s/g.png)**Docker** ● ![](s/o.png)**Spring Boot** ● **Reactive** REST Web Service ● Reactive Mongo Repository |
+| [Study03](https://github.com/k1729p/Study03) | ![](s/g.png)**Docker** ● ![](s/o.png)**Spring Boot** ● **Reactive** REST Web Service ● Spring WebFlux ● Redis |
+| [Study04](https://github.com/k1729p/Study04) | ![](s/g.png)**Docker** ● ![](s/a.png)**Kafka** ● Apache Kafka Streams |
+| [Study05](https://github.com/k1729p/Study05) | ![](s/g.png)**Docker** ● ![](s/o.png)**Spring Boot** ● ![](s/a.png)**Kafka** ● Spring Cloud Stream |
+| [Study06](https://github.com/k1729p/Study06) | ![](s/g.png)**Docker** ● ![](s/o.png)**Spring Boot** ● **Camunda** |
+| [Study07](https://github.com/k1729p/Study07) | ![](s/o.png)**Spring Boot** ● RESTful Web Service ● HATEOAS ● **Spring Data REST** ● H2 database |
+| [Study08](https://github.com/k1729p/Study08) | ![](s/o.png)**Spring Boot** ● Spring Web MVC ● Thymeleaf |
+| [Study09](https://github.com/k1729p/Study09) | ![](s/o.png)**Spring Boot** ● RESTful Web Service ● HATEOAS ● **JavaScript** ● AngularJS ● jQuery |
+| [Study10](https://github.com/k1729p/Study10) | ![](s/o.png)**Spring Boot** ● Spring Cloud Netflix Microservices ● Eureka Server ● Resilience4j |
+| [Study11](https://github.com/k1729p/Study11) | ![](s/o.png)**Spring Boot** ● **SOAP** Web Services ● Spring Web Services ● WSDL |
+| [Study12](https://github.com/k1729p/Study12) | Swing ● Bean Validation ● CDI ● JBoss Weld Container ● RESTful Web Services ● JAX-RS |
+| [Study13](https://github.com/k1729p/Study13) | ![](s/y.png)**JBoss WildFly** ● Jakarta EE ● EJB ● JPA ● JMS ● Transactions (CMT, BMT) ● H2 database |
+| [Study14](https://github.com/k1729p/Study14) | ![](s/y.png)**JBoss WildFly** ● CDI ● JAX-WS ● JAX-RS ● WSDL ● JSF |
+| [Study15](https://github.com/k1729p/Study15) | **Solr** ● JSON |
+| [Study16](https://github.com/k1729p/Study16) | ![](s/g.png)**Docker** ● **Elasticsearch** ● JSON |
+| [Study17](https://github.com/k1729p/Study17) | ![](s/g.png)**Docker** ● **MapStruct** ● Apache Commons ● Concurrent Trees ● Eclipse Collections |
+| [Study18](https://github.com/k1729p/Study18) | Security |
+| [Study19](https://github.com/k1729p/Study19) | Mathematics ● Statistics |
+| [Study20](https://github.com/k1729p/Study20) | Java Platform Module System |
+| [Study21](https://github.com/k1729p/Study21) | ![](s/g.png)**Docker** ● **Pulsar** ● Testcontainers |
+| [Study22](https://github.com/k1729p/Study22) | ![](s/g.png)**Docker** ● **Kubernetes** ● **Quarkus** ● ![](s/a.png)**Kafka** ● MongoDB ● PostgreSQL |
+| [Study23](https://github.com/k1729p/Study23) | ![](s/g.png)**Docker** ● ![](s/o.png)**Spring Boot** ● Spring Cloud Gateway ● **Keycloak** ● Testcontainers |
+| [Study24](https://github.com/k1729p/Study24) | ![](s/g.png)**Docker** ● **Quarkus** ● **Keycloak** |
+| [Study25](https://github.com/k1729p/Study25) | ![](s/g.png)**Docker** ● ![](s/o.png)**Spring Boot** ● **GraphQL** ● JavaFX |
+| [Study26](https://github.com/k1729p/Study26) | ![](s/g.png)**Docker** ● ![](s/o.png)**Spring Boot** ● **gRPC** |
+| [Study27](https://github.com/k1729p/Study27) | ![](s/g.png)**Docker** ● **Angular** ● **Material Design** ● TypeScript ● JavaScript ● Node.js ● Cypress |
+| [Study28](https://github.com/k1729p/Study28) | ![](s/g.png)**Docker** ● **Express** ● **Ten Databases** ● TypeScript ● JavaScript ● Node.js ● Vitest |
+
+![](images/spacer-800.png)
 
 > [!IMPORTANT]
-> Using [Java version <b>25</b> (LTS)](https://docs.oracle.com/en/java/javase/25/docs/api/index.html). 
+> Using [Java version **25** (LTS)](https://docs.oracle.com/en/java/javase/25/docs/api/index.html).
 
 **Engineered with [Augmented Intelligence](https://en.wikipedia.org/wiki/Intelligence_amplification):**
-the code quality, architectural refactoring, and environment orchestration were achieved through an integrated workflow with:
-<img src="images/IDEA.png" alt="IDEA" width="20" height="20">[IntelliJ IDEA](https://www.jetbrains.com/idea/),
+the code quality, architectural refactoring, and environment orchestration were achieved through an integrated workflow with: <img src="images/IDEA.png" alt="IDEA" width="20" height="20">[IntelliJ IDEA](https://www.jetbrains.com/idea/),
 <img src="images/Claude.png" alt="Claude" width="20" height="20">[Anthropic Claude](https://claude.com/),
 <img src="images/Gemini.png" alt="Gemini" width="20" height="20">[Google Gemini](https://gemini.google.com/),
 <img src="images/Copilot.png" alt="Copilot" width="24" height="19">[GitHub Copilot](https://github.com/features/copilot),
 <img src="images/Perplexity.png" alt="Perplexity" width="22" height="20">[Perplexity](https://www.perplexity.ai/),
-<img src="images/Qwen.png" alt="Gemini" width="20" height="20">[Alibaba Qwen](https://qwen.ai/), and
-<img src="images/Docker.png" alt="Docker" width="25" height="20">[Docker Gordon](https://docs.docker.com/ai/gordon/).<br>
+<img src="images/Qwen.png" alt="Qwen" width="20" height="20">[Alibaba Qwen](https://qwen.ai/), and
+<img src="images/Docker.png" alt="Docker" width="25" height="20">[Docker Gordon](https://docs.docker.com/ai/gordon/).\
 The code quality was reviewed by <img src="images/SonarQube.png" alt="SonarQube" width="20" height="20">[SonarQube](https://www.sonarqube.org/)
-([review screenshot](images/Screenshot-SonarQube1.png) , [review screenshot](images/Screenshot-SonarQube2.png)).<br>
+([review screenshot 1](images/Screenshot-SonarQube1.png), [review screenshot 2](images/Screenshot-SonarQube2.png)).\
 Java projects were built with [Maven](https://maven.apache.org/).
-The testing was done with [JUnit 5](https://junit.org/junit5/), [Mockito](https://site.mockito.org/), [Testcontainers](https://testcontainers.com/), and others.<br>
-[<img src="images/LegacyRepository.png">](https://github.com/k1729p/legacy)
+The testing was done with [JUnit 5](https://junit.org/junit5/), [Mockito](https://site.mockito.org/), [Testcontainers](https://testcontainers.com/), and others.\
+[![Legacy repository](images/LegacyRepository.png)](https://github.com/k1729p/legacy)
 
-[<b>𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐖𝐢𝐤𝐢</b>](https://github.com/k1729p/Portfolio/wiki)<img src="images/spacer-460.png"><img alt="" src="images/LiveDemo.png">➔ <a href="https://k1729p.github.io/">GitHub Pages</a>
+[**𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐖𝐢𝐤𝐢**](https://github.com/k1729p/Portfolio/wiki)![](images/spacer-460.png)![](images/LiveDemo.png)➔ [GitHub Pages](https://k1729p.github.io/)
