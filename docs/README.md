@@ -37,10 +37,9 @@
 > Using [Java version <b>25</b> (LTS)](https://docs.oracle.com/en/java/javase/25/docs/api/index.html). 
 
 **Engineered with [Augmented Intelligence](https://en.wikipedia.org/wiki/Intelligence_amplification):**
-The code quality, architectural refactoring, and environment orchestration were achieved through an integrated workflow with:  
+the code quality, architectural refactoring, and environment orchestration were achieved through an integrated workflow with:  
 <img src="images/IDEA.png" alt="IDEA" width="20" height="20">[IntelliJ IDEA](https://www.jetbrains.com/idea/),
-<img src="images/Claude.png" alt="Claude" width="20" height="20">[Anthropic Claude](https://claude.com/),<br>
-<img src="images/spacer-40.png">
+<img src="images/Claude.png" alt="Claude" width="20" height="20">[Anthropic Claude](https://claude.com/),
 <img src="images/Gemini.png" alt="Gemini" width="20" height="20">[Google Gemini](https://gemini.google.com/),
 <img src="images/Copilot.png" alt="Copilot" width="24" height="19">[GitHub Copilot](https://github.com/features/copilot),
 <img src="images/Perplexity.png" alt="Perplexity" width="22" height="20">[Perplexity](https://www.perplexity.ai/),
