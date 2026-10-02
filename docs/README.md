@@ -40,7 +40,7 @@
 **Engineered with [Augmented Intelligence](https://en.wikipedia.org/wiki/Intelligence_amplification)**.
 The code quality, architectural refactoring, and environment orchestration were achieved through an integrated workflow with:
 [![](images/IDEA.png)IntelliJ IDEA](https://www.jetbrains.com/idea/),
-[Anthropic ![](images/Claude.png)Claude](https://claude.com/),
+[Anthropic ![](images/Claude.png)Claude](https://claude.com/), \
 [Google ![](images/Gemini.png)Gemini](https://gemini.google.com/),
 [GitHub ![](images/Copilot.png)Copilot](https://github.com/features/copilot),
 [![](images/Perplexity.png)Perplexity](https://www.perplexity.ai/),
