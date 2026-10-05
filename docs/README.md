@@ -15,8 +15,8 @@
 | [Study10](https://github.com/k1729p/Study10) | ![](s/o.png)**Spring Boot** ● Spring Cloud Netflix Microservices ● Eureka Server ● Resilience4j |
 | [Study11](https://github.com/k1729p/Study11) | ![](s/o.png)**Spring Boot** ● **SOAP** Web Services ● Spring Web Services ● WSDL |
 | [Study12](https://github.com/k1729p/Study12) | Swing ● Bean Validation ● CDI ● JBoss Weld Container ● RESTful Web Services ● JAX-RS |
-| [Study13](https://github.com/k1729p/Study13) | ![](s/y.png)**JBoss WildFly** ● Jakarta EE ● EJB ● JPA ● JMS ● Transactions (CMT, BMT) ● H2 database |
-| [Study14](https://github.com/k1729p/Study14) | ![](s/y.png)**JBoss WildFly** ● CDI ● JAX-WS ● JAX-RS ● WSDL ● JSF |
+| [Study13](https://github.com/k1729p/Study13) | **JBoss WildFly** ● Jakarta EE ● EJB ● JPA ● JMS ● Transactions (CMT, BMT) ● H2 database |
+| [Study14](https://github.com/k1729p/Study14) | **JBoss WildFly** ● CDI ● JAX-WS ● JAX-RS ● WSDL ● JSF |
 | [Study15](https://github.com/k1729p/Study15) | **Solr** ● JSON |
 | [Study16](https://github.com/k1729p/Study16) | ![](s/g.png)**Docker** ● **Elasticsearch** ● JSON |
 | [Study17](https://github.com/k1729p/Study17) | ![](s/g.png)**Docker** ● **MapStruct** ● Apache Commons ● Concurrent Trees ● Eclipse Collections |
@@ -29,15 +29,15 @@
 | [Study24](https://github.com/k1729p/Study24) | ![](s/g.png)**Docker** ● **Quarkus** ● **Keycloak** |
 | [Study25](https://github.com/k1729p/Study25) | ![](s/g.png)**Docker** ● ![](s/o.png)**Spring Boot** ● **GraphQL** ● JavaFX |
 | [Study26](https://github.com/k1729p/Study26) | ![](s/g.png)**Docker** ● ![](s/o.png)**Spring Boot** ● **gRPC** |
-| [Study27](https://github.com/k1729p/Study27) | ![](s/g.png)**Docker** ● **Angular** ● **Material Design** ● TypeScript ● JavaScript ● Node.js ● Cypress |
-| [Study28](https://github.com/k1729p/Study28) | ![](s/g.png)**Docker** ● **Express** ● **Ten Databases** ● TypeScript ● JavaScript ● Node.js ● Vitest |
+| [Study27](https://github.com/k1729p/Study27) | ![](s/g.png)**Docker** ● **Angular** ● **Material Design** ● TypeScript ● ![](s/y.png)JavaScript ● Node.js ● Cypress |
+| [Study28](https://github.com/k1729p/Study28) | ![](s/g.png)**Docker** ● **Express** ● **Ten Databases** ● TypeScript ● ![](s/y.png)JavaScript ● Node.js ● Vitest |
 
 ![](images/spacer-800.png)
 
 > [!IMPORTANT]
 > Using [Java version **25** (LTS)](https://docs.oracle.com/en/java/javase/25/docs/api/index.html).
 
-**Engineered with [Augmented Intelligence](https://en.wikipedia.org/wiki/Intelligence_amplification)**. \
+**Engineered with [Augmented Intelligence](https://en.wikipedia.org/wiki/Intelligence_amplification)**.
 The code quality, architectural refactoring, and environment orchestration were achieved through an integrated workflow with:
 | JetBrains [![](images/IDEA.png)IntelliJ IDEA](https://www.jetbrains.com/idea/) | Anthropic [![](images/Claude.png)Claude](https://claude.com/) | Google [![](images/Gemini.png)Gemini](https://gemini.google.com/) | GitHub [![](images/Copilot.png)Copilot](https://github.com/features/copilot) |
 | :--- | :--- | :--- | :--- |
